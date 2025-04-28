@@ -2,6 +2,12 @@
 
 An interactive web application demonstrating Simple Linear Regression concepts through a practical business case of predicting sales based on advertising spend.
 
+Screenshot
+![{79E62F57-15DA-416F-93F1-D443A6470A86}](https://github.com/user-attachments/assets/be7ba0e5-f31c-451e-88d0-7fed7dd3589e)
+
+![{7EBC987E-B4C7-483A-A77E-C2784F2F66C7}](https://github.com/user-attachments/assets/5cc2466c-ce3d-4d0c-981b-95e2c919457d)
+
+
 ## Features
 
 - **Interactive Data Generation**: Create sample datasets with configurable parameters
